@@ -8,3 +8,6 @@ end
 
 roll
 
+# actually, in this case no argument is rand(5)+1 would be better 
+# because there is no need to specify default as the dice is always going to be 0 to 6
+
